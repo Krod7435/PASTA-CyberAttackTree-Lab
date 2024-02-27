@@ -11,9 +11,16 @@ Will the app process transactions?
 Does it do a lot of back-end processing?
 Are there industry regulations that need to be considered?
 
+Note: This repository highlights my individual advancements in cybersecurity subjects, drawing on content from Coursera. While the resources are sourced from Coursera, the explanations and resolutions featured here represent my personal comprehension as a cybersecurity enthusiast/professional.
+
+Description of Sneaker Company Application:
+Our platform is designed to effortlessly link sellers and shoppers. User sign-up, login, and account management are made simple and user-friendly. Data privacy is a top priority for us, aiming to instill confidence in users that we handle their information responsibly.
+
+Buyers can easily communicate with sellers through direct messaging and have the option to rate sellers, promoting excellent service. The sales process is transparent and swift, ensuring a quick and efficient transaction. Users are provided with multiple payment options to facilitate a seamless checkout experience, with careful attention to proper payment handling to avoid legal complications.
+
 The business application will process sales and allow for users to manage their accounts. There will be concerns about the processing of payments, ensuring it is done in an appropriate and legal fashion.
 II. Define the technical scope
-List of technologies used by the application:
+List of technologies used by the application for this situation:
 - API
 - PKI
 - AES
