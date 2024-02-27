@@ -3,6 +3,7 @@ In this project written diagram lab, I’m conducting an analytical process to d
 
 
 Stages Sneaker company
+
 I. Define business and security objectives
 
 Make 2-3 notes of specific business requirements that will be analyzed.
@@ -19,6 +20,7 @@ Our platform is designed to effortlessly link sellers and shoppers. User sign-up
 Buyers can easily communicate with sellers through direct messaging and have the option to rate sellers, promoting excellent service. The sales process is transparent and swift, ensuring a quick and efficient transaction. Users are provided with multiple payment options to facilitate a seamless checkout experience, with careful attention to proper payment handling to avoid legal complications.
 
 The business application will process sales and allow for users to manage their accounts. There will be concerns about the processing of payments, ensuring it is done in an appropriate and legal fashion.
+
 II. Define the technical scope
 List of technologies used by the application for this situation:
 - API
